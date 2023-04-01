@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pranjal12roy@gmail.com**
 
-- 📄 Know about my experiences [1 year experince as a Web Developer](1 year experince as a Web Developer)
+- 📄 Know about my experiences (1 year experince as a Web Developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
